@@ -1,0 +1,20 @@
+{
+  "name": "mini-commonjs",
+  "version": "1.0.0",
+  "description": "commonjs 模拟实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0sc0s/mini-commonJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0sc0s/mini-commonJS/issues"
+  },
+  "homepage": "https://github.com/c0sc0s/mini-commonJS#readme"
+}
